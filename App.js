@@ -25,6 +25,7 @@ import {
 } from 'react-native/Libraries/NewAppScreen';
 import Layout from './components/layout';
 import {NativeBaseProvider} from 'native-base';
+import MyTabView from './components/TabView';
 
 function App() {
   const isDarkMode = useColorScheme() === 'dark';
@@ -64,7 +65,7 @@ function App() {
           justifyContent: 'center',
           alignItems: 'center',
         }}>
-        <Layout />
+        <MyTabView />
       </View>
     </NativeBaseProvider>
   );

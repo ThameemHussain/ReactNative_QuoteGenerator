@@ -11,13 +11,13 @@ MERGED from [com.facebook.flipper:flipper:0.125.0] C:\Users\Thameem\.gradle\cach
 MERGED from [:react-native-vector-icons] C:\Users\Thameem\AwesomeProject\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-clipboard_clipboard] C:\Users\Thameem\AwesomeProject\node_modules\@react-native-clipboard\clipboard\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-linear-gradient] C:\Users\Thameem\AwesomeProject\node_modules\react-native-linear-gradient\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-pager-view] C:\Users\Thameem\AwesomeProject\node_modules\react-native-pager-view\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-safe-area-context] C:\Users\Thameem\AwesomeProject\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-snackbar] C:\Users\Thameem\AwesomeProject\node_modules\react-native-snackbar\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-svg] C:\Users\Thameem\AwesomeProject\node_modules\react-native-svg\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-tts] C:\Users\Thameem\AwesomeProject\node_modules\react-native-tts\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.react:react-android:0.71.1] C:\Users\Thameem\.gradle\caches\transforms-3\f89c26f7e1edae0f96f0787e13312620\transformed\jetified-react-android-0.71.1-debug\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\Thameem\.gradle\caches\transforms-3\7568b116daa085425ddeb517fea8fe20\transformed\material-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Thameem\.gradle\caches\transforms-3\c3697af62fc57f2297b7da9fd19e2cb9\transformed\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Thameem\.gradle\caches\transforms-3\caf37ce8f45c271a8e9c0e3366503590\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Thameem\.gradle\caches\transforms-3\2e8bef56a5fd685a0a2ce7e442fe7383\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.facebook.react:hermes-android:0.71.1] C:\Users\Thameem\.gradle\caches\transforms-3\371021b89ef1c7beb42b83ca030b5f8d\transformed\jetified-hermes-android-0.71.1-debug\AndroidManifest.xml:2:1-9:12
@@ -41,6 +41,7 @@ MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\Thameem\.gradle\caches
 MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Thameem\.gradle\caches\transforms-3\6610b18a282bad0a19918bdf78934cd7\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\Thameem\.gradle\caches\transforms-3\79ee68175916317b77e82d8417685a1d\transformed\jetified-appcompat-resources-1.4.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.autofill:autofill:1.1.0] C:\Users\Thameem\.gradle\caches\transforms-3\6660442dac6f5d93c62aef014c65d364\transformed\jetified-autofill-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Thameem\.gradle\caches\transforms-3\34df4b81bce160c31107e06575babcf6\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Thameem\.gradle\caches\transforms-3\cfaca6683c157a246b7082fdd393072d\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.activity:activity:1.2.4] C:\Users\Thameem\.gradle\caches\transforms-3\28c63c578ac233efa7bf354c1e7d89d2\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Thameem\.gradle\caches\transforms-3\c70479551c0444e9bfdbf356e610888b\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
@@ -55,6 +56,7 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Thameem\.gradle\
 MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Thameem\.gradle\caches\transforms-3\832c63e6a34c51d66c1627cb1ed51834\transformed\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Thameem\.gradle\caches\transforms-3\1aa1fb8f5eff7efe8f572058245f2e2a\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Thameem\.gradle\caches\transforms-3\a58026b8ba6fda39e2eba367af98434e\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Thameem\.gradle\caches\transforms-3\07acedd2fde213bd957a84944dede18f\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Thameem\.gradle\caches\transforms-3\f7636bb884b4c412c1dad9c876c08504\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.transition:transition:1.0.0] C:\Users\Thameem\.gradle\caches\transforms-3\d88519ad58efd936755a407d01db250c\transformed\transition-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Thameem\.gradle\caches\transforms-3\11c246db77034c80ec834bf1f544c8e2\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -68,8 +70,8 @@ MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Thameem\.gradl
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Thameem\.gradle\caches\transforms-3\fceb3425f18ac2e858c2a36f35c3434a\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Thameem\.gradle\caches\transforms-3\8fb34dc1b2e05b2791e0a53cbaa5464e\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Thameem\.gradle\caches\transforms-3\77c553b2e843fa6189589e1cd693774e\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Thameem\.gradle\caches\transforms-3\440af3b3541797fc2127022a57bd29f8\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Thameem\.gradle\caches\transforms-3\ca3e6b8347e421fbf9571530bfea0b74\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Thameem\.gradle\caches\transforms-3\440af3b3541797fc2127022a57bd29f8\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Thameem\.gradle\caches\transforms-3\53a224794a7d094e3ea97baf0d248cde\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Thameem\.gradle\caches\transforms-3\0b6cc801065c1dbe86c6672ee8a4c427\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\Thameem\.gradle\caches\transforms-3\db79957e5d8eefef48c6e91a48008f93\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:17:1-24:12
@@ -190,6 +192,8 @@ MERGED from [:react-native-clipboard_clipboard] C:\Users\Thameem\AwesomeProject\
 MERGED from [:react-native-clipboard_clipboard] C:\Users\Thameem\AwesomeProject\node_modules\@react-native-clipboard\clipboard\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-linear-gradient] C:\Users\Thameem\AwesomeProject\node_modules\react-native-linear-gradient\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-linear-gradient] C:\Users\Thameem\AwesomeProject\node_modules\react-native-linear-gradient\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-pager-view] C:\Users\Thameem\AwesomeProject\node_modules\react-native-pager-view\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-pager-view] C:\Users\Thameem\AwesomeProject\node_modules\react-native-pager-view\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-safe-area-context] C:\Users\Thameem\AwesomeProject\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-safe-area-context] C:\Users\Thameem\AwesomeProject\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-snackbar] C:\Users\Thameem\AwesomeProject\node_modules\react-native-snackbar\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
@@ -202,8 +206,6 @@ MERGED from [com.facebook.react:react-android:0.71.1] C:\Users\Thameem\.gradle\c
 MERGED from [com.facebook.react:react-android:0.71.1] C:\Users\Thameem\.gradle\caches\transforms-3\f89c26f7e1edae0f96f0787e13312620\transformed\jetified-react-android-0.71.1-debug\AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\Thameem\.gradle\caches\transforms-3\7568b116daa085425ddeb517fea8fe20\transformed\material-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\Thameem\.gradle\caches\transforms-3\7568b116daa085425ddeb517fea8fe20\transformed\material-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Thameem\.gradle\caches\transforms-3\c3697af62fc57f2297b7da9fd19e2cb9\transformed\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Thameem\.gradle\caches\transforms-3\c3697af62fc57f2297b7da9fd19e2cb9\transformed\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Thameem\.gradle\caches\transforms-3\caf37ce8f45c271a8e9c0e3366503590\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Thameem\.gradle\caches\transforms-3\caf37ce8f45c271a8e9c0e3366503590\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Thameem\.gradle\caches\transforms-3\2e8bef56a5fd685a0a2ce7e442fe7383\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
@@ -250,6 +252,8 @@ MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\Thameem\.gra
 MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\Thameem\.gradle\caches\transforms-3\79ee68175916317b77e82d8417685a1d\transformed\jetified-appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.autofill:autofill:1.1.0] C:\Users\Thameem\.gradle\caches\transforms-3\6660442dac6f5d93c62aef014c65d364\transformed\jetified-autofill-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.autofill:autofill:1.1.0] C:\Users\Thameem\.gradle\caches\transforms-3\6660442dac6f5d93c62aef014c65d364\transformed\jetified-autofill-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Thameem\.gradle\caches\transforms-3\34df4b81bce160c31107e06575babcf6\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Thameem\.gradle\caches\transforms-3\34df4b81bce160c31107e06575babcf6\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Thameem\.gradle\caches\transforms-3\cfaca6683c157a246b7082fdd393072d\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Thameem\.gradle\caches\transforms-3\cfaca6683c157a246b7082fdd393072d\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.activity:activity:1.2.4] C:\Users\Thameem\.gradle\caches\transforms-3\28c63c578ac233efa7bf354c1e7d89d2\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
@@ -278,6 +282,8 @@ MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Thameem\.gradle\
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Thameem\.gradle\caches\transforms-3\1aa1fb8f5eff7efe8f572058245f2e2a\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Thameem\.gradle\caches\transforms-3\a58026b8ba6fda39e2eba367af98434e\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Thameem\.gradle\caches\transforms-3\a58026b8ba6fda39e2eba367af98434e\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Thameem\.gradle\caches\transforms-3\07acedd2fde213bd957a84944dede18f\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Thameem\.gradle\caches\transforms-3\07acedd2fde213bd957a84944dede18f\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Thameem\.gradle\caches\transforms-3\f7636bb884b4c412c1dad9c876c08504\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Thameem\.gradle\caches\transforms-3\f7636bb884b4c412c1dad9c876c08504\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.transition:transition:1.0.0] C:\Users\Thameem\.gradle\caches\transforms-3\d88519ad58efd936755a407d01db250c\transformed\transition-1.0.0\AndroidManifest.xml:20:5-44
@@ -304,10 +310,10 @@ MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Thameem\.gradle\cach
 MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Thameem\.gradle\caches\transforms-3\8fb34dc1b2e05b2791e0a53cbaa5464e\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Thameem\.gradle\caches\transforms-3\77c553b2e843fa6189589e1cd693774e\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Thameem\.gradle\caches\transforms-3\77c553b2e843fa6189589e1cd693774e\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Thameem\.gradle\caches\transforms-3\440af3b3541797fc2127022a57bd29f8\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Thameem\.gradle\caches\transforms-3\440af3b3541797fc2127022a57bd29f8\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Thameem\.gradle\caches\transforms-3\ca3e6b8347e421fbf9571530bfea0b74\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Thameem\.gradle\caches\transforms-3\ca3e6b8347e421fbf9571530bfea0b74\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Thameem\.gradle\caches\transforms-3\440af3b3541797fc2127022a57bd29f8\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Thameem\.gradle\caches\transforms-3\440af3b3541797fc2127022a57bd29f8\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Thameem\.gradle\caches\transforms-3\53a224794a7d094e3ea97baf0d248cde\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Thameem\.gradle\caches\transforms-3\53a224794a7d094e3ea97baf0d248cde\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Thameem\.gradle\caches\transforms-3\0b6cc801065c1dbe86c6672ee8a4c427\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41

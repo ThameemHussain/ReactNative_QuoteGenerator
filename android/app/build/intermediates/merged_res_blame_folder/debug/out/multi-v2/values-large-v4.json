@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.awesomeproject.app-mergeDebugResources-25:/values-large-v4/values-large-v4.xml",
+            "outputFile": "com.awesomeproject.app-mergeDebugResources-26:/values-large-v4/values-large-v4.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Thameem\\.gradle\\caches\\transforms-3\\7568b116daa085425ddeb517fea8fe20\\transformed\\material-1.0.0\\res\\values-large-v4\\values-large-v4.xml",

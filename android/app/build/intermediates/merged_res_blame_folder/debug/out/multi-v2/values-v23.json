@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.awesomeproject.app-mergeDebugResources-25:/values-v23/values-v23.xml",
+            "outputFile": "com.awesomeproject.app-mergeDebugResources-26:/values-v23/values-v23.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Thameem\\.gradle\\caches\\transforms-3\\440af3b3541797fc2127022a57bd29f8\\transformed\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",

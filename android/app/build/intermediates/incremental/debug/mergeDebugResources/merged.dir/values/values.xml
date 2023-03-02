@@ -19,6 +19,7 @@
     <attr format="reference" name="materialCardViewStyle"/>
     <attr format="reference" name="navigationViewStyle"/>
     <attr format="reference" name="nestedScrollViewStyle"/>
+    <attr format="reference" name="recyclerViewStyle"/>
     <attr format="color" name="rippleColor"/>
     <attr format="color|reference" name="scrimBackground"/>
     <attr format="reference" name="showMotionSpec"/>
@@ -4540,6 +4541,7 @@
 
         <attr name="android:orientation"/>
         <attr name="android:descendantFocusability"/>
+        <attr name="android:clipToPadding"/>
         <attr format="integer" name="spanCount"/>
         <attr format="boolean" name="reverseLayout"/>
         <attr format="boolean" name="stackFromEnd"/>
@@ -4925,6 +4927,9 @@
                  result to valid color values. Saturate(S + D) -->
             <enum name="add" value="16"/>
         </attr>
+    </declare-styleable>
+    <declare-styleable name="ViewPager2">
+        <attr name="android:orientation"/>
     </declare-styleable>
     <declare-styleable name="ViewStubCompat">
         

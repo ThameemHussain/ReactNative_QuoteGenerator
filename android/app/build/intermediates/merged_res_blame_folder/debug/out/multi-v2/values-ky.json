@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.awesomeproject.app-mergeDebugResources-25:/values-ky/values-ky.xml",
+            "outputFile": "com.awesomeproject.app-mergeDebugResources-26:/values-ky/values-ky.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Thameem\\.gradle\\caches\\transforms-3\\0d8d81f6b572192987f2f410f9927e3a\\transformed\\core-1.7.0\\res\\values-ky\\values-ky.xml",

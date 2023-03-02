@@ -35,6 +35,9 @@ function Layout() {
   const [isLoading, setIsLoading] = useState(false);
   const [isSpeaking, setIsSpeaking] = useState(false);
   const [counter, setCounter] = useState(0);
+  const [image, setImage] = useState(
+    'https://api.lorem.space/image?w=500&h=500',
+  );
 
   // SpeakerStyle
   const styles = StyleSheet.create({
@@ -61,8 +64,12 @@ function Layout() {
         setQuote(result.content);
         setAuthor(result.author);
         setIsLoading(false);
+        setCounter(counter - 1);
+        console.log(counter);
       });
     setCounter(counter + 1);
+    setImage(`https://api.lorem.space/image/watch?w=500&h=${499 + counter}`);
+    console.log(counter);
   };
   useEffect(() => {
     randomQuote();
@@ -125,9 +132,10 @@ function Layout() {
       <Box>
         <AspectRatio w="100%">
           <Image
+            style={{height: '100%', width: '100%'}}
             source={{
               // uri: 'https://www.holidify.com/images/cmsuploads/compressed/Bangalore_citycover_20190613234056.jpg',
-              uri: `https://unsplash.it/150/200?image=${counter}`,
+              uri: image,
             }}
             alt="image"
           />
@@ -139,6 +147,10 @@ function Layout() {
             fontWeight: '900',
             fontSize: 'md',
             borderColor: 'white',
+            borderWidth: 1,
+            borderRadius: 10,
+            padding: 5,
+            ba,
           }}
           position="absolute"
           px="3"
